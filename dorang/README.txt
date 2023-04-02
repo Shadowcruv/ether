@@ -1,4 +1,4 @@
-Dorang Free Bootstrap4 Landing Page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+Doransg Free Bootstrap4 Landing Page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
 
 Product Page: https://wwww.devcrud.com/
 
